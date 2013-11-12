@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  	    <string-array name="batiments">
+        <item>Esclangon</item>
+        <item>Atrium</item>
+        <item>Ajout de batiment</item>
+    </string-array>  
+</resources>
